@@ -1,3 +1,0 @@
-CREATE USER 'khalid'@'%' IDENTIFIED BY 'password123_DONG';
-GRANT ALL PRIVILEGES ON mydb.* TO 'khalid'@'%';
-FLUSH PRIVILEGES;
